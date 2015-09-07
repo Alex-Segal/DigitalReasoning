@@ -1,0 +1,8 @@
+inputFile=C:/Users/Alex/Desktop/programming_test/NLP_test/nlp_data.txt
+namedEntitiesFile=C:/Users/Alex/Desktop/programming_test/NLP_test/NER.txt
+zipInputFile=C:/Users/Alex/Desktop/programming_test/NLP_test/nlp_data.zip
+XMLOutDir=C:/Users/Alex/Desktop/programming_test/NLP_test/OutputXML/
+XMLOutFile1=task1.xml
+XMLOutFile2=task2.xml
+
+testValue=testSuccessful
